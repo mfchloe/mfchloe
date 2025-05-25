@@ -19,7 +19,7 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTltd2pyd3NlY2djOHBwa21pdHI2cXRsOG01cDByY3FneXA5dWluOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1ynCEtlgMPAeNAqdnu/giphy.gif" width="32" /> Technologies
 </h2>
 
-### Languages
+#### Languages
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" />
@@ -30,7 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
 </p>
 
-### Frameworks & Libraries
+#### Frameworks & Libraries
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" />
@@ -43,13 +43,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" />
 </p>
 
-### Databases & Backend
+#### Databases & Backend
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" />
 </p>
 
-### Others
+#### Others
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" />
