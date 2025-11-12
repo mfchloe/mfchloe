@@ -4,7 +4,7 @@
 </h2>
 
 <p align="left">
-  I'm a Year 2 Business Analytics (specializing in Machine Learning) student at NUS with a second major in Economics.<br />
+  I'm a Year 3 Business Analytics (specializing in Machine Learning) student at NUS with a second major in Economics.<br />
   I’m passionate about using tech for good.
 </p>
 
